@@ -2,11 +2,12 @@
 <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/>
 
 ## I'm Self-taught Designer and Developer. 👨‍💻
+###### PRAYER🤲 ‹-› GYM🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁
 
 <!--
 **immohammedbilal98/immohammedbilal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
--  🖥 I’m currently learning Full-Stack Development.
+-  📚 I’m currently learning Full-Stack Development.
 -  💻 I’m looking to collaborate with other Developers.
 -  🛠 I always solve a problem for Coding
 -  🎮 Fun fact: I love to play a Game.
@@ -43,7 +44,7 @@
 <br>
 <br>
 
-_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
+_NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
 <img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true" />
 <a href="https://github.com/immohammedbilal98">
