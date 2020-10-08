@@ -54,11 +54,13 @@
 <br>
 <br>
 
+---
+
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
 <a>
   <img align="right" alt="Mohammad Bilal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=light" />
-  
+  <img  align="left" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" width="250" height="200">  
 </a>
 <a>
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" />
