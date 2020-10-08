@@ -66,7 +66,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </a>
 
 <a>
-  <img  align="center" src="https://www.mygo.ge/uploads/blog/1584024060.jpg" width="480" height="300">  
+  <img  align="center" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" width="480" height="300">  
 </a>
 
 
