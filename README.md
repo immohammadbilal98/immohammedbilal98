@@ -56,7 +56,6 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true" />
 <br>
-<br>
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" />
 
 
