@@ -15,6 +15,8 @@
 <br>
 <br>
 
+---
+
 <img align="left" src="https://user-images.githubusercontent.com/49686277/95300282-93a64580-089c-11eb-80ec-2ae2481368d8.gif" style="max-width:100%;margin-right: 128px;margin-left: 3930px;margin">
 
 
@@ -42,6 +44,8 @@
 <br>
 <br>
 
+---
+
 ### Connect with me:  
 <a href="https://codepen.io/https://codepen.io/elysian97" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/elysian97" height="30" width="30" /></a>
 <a href="https://twitter.com/https://twitter.com/elysian_97" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/elysian_97" height="30" width="30" /></a>
@@ -52,10 +56,14 @@
 <br>
 <br>
 
+---
+
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" /> <img align="right" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true" />
+<img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" /> 
 
+---
 
 
 
