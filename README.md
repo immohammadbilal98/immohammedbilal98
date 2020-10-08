@@ -58,10 +58,13 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <a>
   <img align="right" alt="Mohammad Bilal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=light" />
+  
+</a>
+<a>
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" />
 </a>
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom" >
 
 
 
