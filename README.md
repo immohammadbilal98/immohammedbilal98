@@ -15,8 +15,6 @@
 <br>
 <br>
 
----
-
 <img align="left" src="https://user-images.githubusercontent.com/49686277/95300282-93a64580-089c-11eb-80ec-2ae2481368d8.gif" style="max-width:100%;margin-right: 128px;margin-left: 3930px;margin">
 
 
@@ -28,6 +26,7 @@
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
 <img align="left" src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+
 <br>
 <br>
 
@@ -44,8 +43,6 @@
 <br>
 <br>
 
----
-
 ### Connect with me:  
 <a href="https://codepen.io/https://codepen.io/elysian97" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/elysian97" height="30" width="30" /></a>
 <a href="https://twitter.com/https://twitter.com/elysian_97" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/elysian_97" height="30" width="30" /></a>
@@ -53,21 +50,18 @@
 <a href="https://fb.com/https://www.facebook.com/elysian.97/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/elysian.97/" height="30" width="30" /></a>
 <a href="https://instagram.com/https://www.instagram.com/elysian.97__/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/elysian.97__/" height="30" width="30" /></a>
 </p>
-<br>
-<br>
 
----
+<br>
+<br>
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
 <a>
   <img align="right" alt="Mohammad Bilal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=light" />
-</a>
-<a>
   <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" />
 </a>
 
-
+<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom">
 
 
 
