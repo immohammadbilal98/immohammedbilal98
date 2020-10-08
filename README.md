@@ -54,14 +54,11 @@
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
 
-<div>
-  <img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true" />
-  <img align="right" src="https://user-images.githubusercontent.com/49686277/95452958-b19ca480-0987-11eb-9ac2-61eb8b15aac0.gif" height='358' width='400'/>
-  <br>
-  <br>
-  <br>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" />
-</div>  
+<img align="left" alt="Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true" />
+<br>
+<br>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" />
+
 
 
 
