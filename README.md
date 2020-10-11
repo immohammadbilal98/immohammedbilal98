@@ -2,7 +2,7 @@
 <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/>
 
 ## I'm a Self-taught Designer and Developer. 👨‍💻
-###### PRAYER🤲 ‹-› GYM🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁
+###### NAMAZ🤲 ‹-› GYM🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁
 
 <!--
 **immohammedbilal98/immohammedbilal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
