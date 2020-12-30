@@ -10,7 +10,7 @@
 -  📚 I’m currently learning Full-Stack Development. 
 -  💻 I’m looking to collaborate with other Developers. 
 -  🛠 I always solve coding problem. 
--  🎮 Fun fact: I love to play a Game.   
+-  🎮 Fun fact: I love to play a Game.    
  
 <br>
 <br>
