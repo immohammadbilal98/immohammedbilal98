@@ -15,7 +15,7 @@
 <br>
 <br>
 
-<img align="left" src="https://user-images.githubusercontent.com/49686277/95300282-93a64580-089c-11eb-80ec-2ae2481368d8.gif" style="max-width:100%;margin-right: 128px;margin-left: 3930px;margin">
+<img align="left" src="https://user-images.githubusercontent.com/49686277/95300282-93a64580-089c-11eb-80ec-2ae2481368d8.gif" style="max-width:100%;margin-right: 128px;margin-left: 3930px;margin"> 
 
 
 ### Languages:
