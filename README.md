@@ -35,9 +35,7 @@
 <br> 
 <br> 
  
-### Tools:
-
-<img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
+### Tools: <img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img align="left" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code.svg" alt="vscode" width="40" height="40"/>
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" alt="pycharm" width="40" height="40"/>
 <img align="left" src="https://user-images.githubusercontent.com/49686277/95672956-63271a00-0bc2-11eb-9cd2-1c7afab7efe7.png" alt="atom" width="40" height="40"/>
