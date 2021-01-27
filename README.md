@@ -1,12 +1,13 @@
+<!--
+**immohammedbilal98/immohammedbilal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 ### Hola, I'm Mohammad Bilal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
 
 ## I'm a Self-taught Designer and Developer. 👨‍💻
 ###### NAMAZ🤲 ‹-› GYM🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁 
  
-<!--
-**immohammedbilal98/immohammedbilal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 -  📚 I’m currently learning Full-Stack Development. 
 -  💻 I’m looking to collaborate with other Developers. 
 -  🛠 I always solve coding problem.  
@@ -73,7 +74,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img  align="center" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" width="480" height="300">  
 </a>
 
-<b align="center">Happy Coding</b>
+<h3 align="center">👨‍💻 !!! HAPPY CODING !!! 👨‍💻</h3>
 
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom"> 
