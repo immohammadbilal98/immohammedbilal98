@@ -73,6 +73,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img  align="center" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" width="480" height="300">  
 </a>
 
+<b align="center">Happy Coding</b>
+
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom"> 
 
