@@ -72,7 +72,11 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img  align="center" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif" width="480" height="300">  
 </a>
 
-<h3 align="center">👨‍💻 !!! HAPPY CODING !!! 👨‍💻</h3>
+<p align="center">
+  <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
+  <br>
+  <strong>Happy Coding</strong> ❤️
+</p>
 
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom"> 
