@@ -73,7 +73,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </a>
 
 <p align="center">
-  <img alt="Sloan, the sloth mascot" width="250px" src="https://thepracticaldev.s3.amazonaws.com/uploads/user/profile_image/31047/af153cd6-9994-4a68-83f4-8ddf3e13f0bf.jpg">
+  <img width="150px" src="https://user-images.githubusercontent.com/49686277/108319748-47b8c500-71db-11eb-89b5-d38b769731e1.PNG">
   <br>
   <strong>Happy Coding</strong> ❤️
 </p>
