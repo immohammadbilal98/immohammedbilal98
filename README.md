@@ -66,7 +66,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </p>
 
 <p>
-  <img align="left" alt="Mohammad Bilal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=immohammedbilal98&show_icons=true&count_private=true&include_all_commits=true&theme=light" width="451px">
+  <img align="left" alt="Mohammad Bilal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=immohammedbilal98&show_icons=true&count_private=true&include_all_commits=true&theme=light" width="418px">
     <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light">
 </p>
 
@@ -77,11 +77,13 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 ---
 
-<p align="center">
+<div align="center">
+ <p>
   <img width="150px" src="https://user-images.githubusercontent.com/49686277/108319748-47b8c500-71db-11eb-89b5-d38b769731e1.PNG">
   <br>
   <strong>Happy Coding</strong> ❤️
-</p>
+ </p> 
+</div>
 
 
 <img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom"> 
