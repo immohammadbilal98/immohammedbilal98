@@ -16,6 +16,8 @@
 <br>
 <br>
 
+---
+
 <img align="left" src="https://user-images.githubusercontent.com/49686277/95300282-93a64580-089c-11eb-80ec-2ae2481368d8.gif" style="max-width:100%;margin-right: 128px;margin-left: 3930px;margin"> 
 
 
@@ -30,6 +32,7 @@
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/>
 
+---
 <br> 
 <br> 
  
@@ -40,11 +43,7 @@
 <img align="left" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/PyCharm_Logo.svg/512px-PyCharm_Logo.svg.png" alt="pycharm" width="40" height="40"/>
 <img align="left" src="https://user-images.githubusercontent.com/49686277/95672956-63271a00-0bc2-11eb-9cd2-1c7afab7efe7.png" alt="atom" width="40" height="40"/>
 
-
-<br>
-<br>
-<br>
-<br>
+---
 
 ### Connect with me:  
 <a href="https://codepen.io/elysian97" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/elysian97" height="30" width="30" /></a>
@@ -54,14 +53,9 @@
 <a href="https://www.instagram.com/elysian.97__/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/elysian.97__/" height="30" width="30" /></a>
 </p>
 
-<br>
-<br>
-
 ---
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
-
----
 
 <p align="center">
   <img width="480" height="300" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">  
@@ -73,6 +67,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </p>
 
 <br>
+
+---
 
 <p align="center">
   <img width="150px" src="https://user-images.githubusercontent.com/49686277/108319748-47b8c500-71db-11eb-89b5-d38b769731e1.PNG">
