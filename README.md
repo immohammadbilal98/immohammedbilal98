@@ -79,7 +79,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 <div align="center">
  <p>
-  <img width="150px" src="https://user-images.githubusercontent.com/49686277/108319748-47b8c500-71db-11eb-89b5-d38b769731e1.PNG">
+  <img align="center" width="150px" src="https://user-images.githubusercontent.com/49686277/108319748-47b8c500-71db-11eb-89b5-d38b769731e1.PNG">
   <br>
   <strong>Happy Coding</strong> ❤️
  </p> 
