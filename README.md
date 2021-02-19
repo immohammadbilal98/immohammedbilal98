@@ -71,8 +71,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
     <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light">
 </p>
 
-<br>
-<br>
+<br/>
+
 
 <div>
  <p>
