@@ -67,10 +67,10 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
   <img width="480" height="300" src="https://i.pinimg.com/originals/b9/e4/96/b9e4960c1476c78043d499d975f86cdb.gif">  
 </p>
 
-<a>
+<p>
   <img align="left" alt="Mohammad Bilal's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=immohammedbilal98&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=light" width="451px">
     <img align="right" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light">
-</a>
+</p>
 
 <p align="center">
   <img width="150px" src="https://user-images.githubusercontent.com/49686277/108319748-47b8c500-71db-11eb-89b5-d38b769731e1.PNG">
