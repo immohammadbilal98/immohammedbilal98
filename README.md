@@ -53,6 +53,7 @@
 <a href="https://www.facebook.com/elysian.97/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/elysian.97/" height="30" width="30" /></a>
 <a href="https://www.instagram.com/elysian.97__/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/elysian.97__/" height="30" width="30" /></a>
 </p>
+<p align="right"> <img src="https://komarev.com/ghpvc/?username=immohammedbilal98&label=Profile%20views&color=0e75b6&style=flat" alt="bilal" /> </p>
 
 <br>
 <br>
