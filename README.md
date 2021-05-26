@@ -67,7 +67,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <p>
   <img align="left" alt="Mohammad Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immohammedbilal98&show_icons=true&locale=en" width="436px">
     <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" width="365px">
-</p>
+</p> 
 
 <br/>
 <br/>
