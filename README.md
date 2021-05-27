@@ -1,7 +1,9 @@
 <!--
 **immohammedbilal98/immohammedbilal98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-<img src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" />
+<img src="https://user-images.githubusercontent.com/49686277/119872504-2c2f2a00-bf41-11eb-90a9-bfad08b0a130.PNG" alt="top" />
+
+<img src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" alt="cover" />
 
 ### Hola, I'm Mohammad Bilal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
@@ -90,4 +92,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </div>
 
 
-<img src="https://raw.githubusercontent.com/jayehernandez/jayehernandez/dcd7447c179f5a1131590b6ccba2223e879ab655/readme/bottom.svg" alt="bottom"> 
+<img src="https://user-images.githubusercontent.com/49686277/119872640-554fba80-bf41-11eb-8a70-7adbf6247341.PNG" alt="bottom"> 
