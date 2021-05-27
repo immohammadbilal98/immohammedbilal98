@@ -3,9 +3,11 @@
 -->
 <img src="https://user-images.githubusercontent.com/49686277/119872504-2c2f2a00-bf41-11eb-90a9-bfad08b0a130.PNG" alt="top" />
 
+### Hola, I'm Mohammad Bilal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
 <img src="https://user-images.githubusercontent.com/49686277/109705521-4e6b1300-7bb1-11eb-8380-48681240721a.png" alt="cover" />
 
-### Hola, I'm Mohammad Bilal <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+
 <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
 
 ## I'm a Self-taught Designer and Developer. 👨‍💻
