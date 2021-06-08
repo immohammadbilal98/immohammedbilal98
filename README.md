@@ -60,6 +60,15 @@
 <br>
 <br>
 
+
+<p align="center" href="https://github.com/antonkomarev/github-profile-views-counter">
+ <img src="https://komarev.com/ghpvc/?username=immohammedbilal98">
+</> 
+
+
+<br>
+<br>
+
 ---
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github._
