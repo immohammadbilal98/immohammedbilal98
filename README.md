@@ -62,7 +62,7 @@
 
 
 <p align="center" href="https://github.com/antonkomarev/github-profile-views-counter">
- <img src="https://komarev.com/ghpvc/?username=immohammedbilal98">
+ <img src="https://komarev.com/ghpvc/?username=immohammedbilal98&label=PROFILE+VIEWS">
 </> 
 
 
