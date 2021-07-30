@@ -24,7 +24,7 @@
 <img align="left" src="https://user-images.githubusercontent.com/49686277/95300282-93a64580-089c-11eb-80ec-2ae2481368d8.gif" style="max-width:100%;margin-right: 128px;margin-left: 3930px;margin"> 
 
 
-### Languages:
+### Front-End:
 
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
 <img align="left" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -38,7 +38,7 @@
 <br> 
 <br> 
  
-### Tools: 
+### Back-End: 
 
 <img align="left" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
 <img align="left" src="https://user-images.githubusercontent.com/49686277/95672956-63271a00-0bc2-11eb-9cd2-1c7afab7efe7.png" alt="atom" width="40" height="40"/>
