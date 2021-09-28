@@ -61,7 +61,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
     <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" width="365px">
 </p> 
 
-<br/>
+
 <br/>
 <br/>
 <br/>
@@ -72,7 +72,10 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <br/>
 <br/>
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=immohammedbilal98&bg_color=000000&color=35a766&line=4e4c9e&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<br/>
+ 
 <div>
  <p align="center">
   <img align="center" width="150px" src="https://user-images.githubusercontent.com/49686277/108319748-47b8c500-71db-11eb-89b5-d38b769731e1.PNG">
