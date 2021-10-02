@@ -10,7 +10,7 @@
 
 <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
 
-## I'm a Self-taught Designer and Web Developer. 👨‍💻
+## I'm a Self-taught Designer and Developer. 👨‍💻
 ###### NAMAZ🤲 ‹-› GYM🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁   
  
 -  📚 I’m currently learning Full-Stack Development. 
