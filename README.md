@@ -33,7 +33,8 @@
 <h2 align="center">Back-End:</h2>
 <div align="center">
  <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/> 
- <img  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="50" height="50"/>
+ <img  src="https://cdn.iconscout.com/icon/free/png-256/node-js-1174925.png" alt="nodejs" width="50" height="50"/>
+ <img  src="https://cdn.icon-icons.com/icons2/2699/PNG/512/expressjs_logo_icon_169185.png" alt="nodejs" width="50" height="50"/>
  
 </div> 
 
