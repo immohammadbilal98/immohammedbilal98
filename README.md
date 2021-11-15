@@ -13,10 +13,15 @@
 ## I'm a Self-taught Designer and Developer.
 ###### NAMAZ🤲 ‹-› GYM🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁   
  
+-  👨‍🎓 I graduated with a bachelor's degree in Computer Science Engineering. 
 -  📚 I’m currently learning Full-Stack Development.
--  💻 I’m looking to collaborate with other Developers.
--  🛠 I always solve coding problem.
--  🎮 Fun fact: I love to play a Game.
+-  📂 Apart from coding, some other activities that I love to do! :
+     <ul>
+       <li>🎮 Playing Games</li>
+       <li>🚍 Travelling</li>
+     </ul>
+   
+
 <br>
 
 <img align="left" src="https://user-images.githubusercontent.com/49686277/95300282-93a64580-089c-11eb-80ec-2ae2481368d8.gif" width="328"> 
