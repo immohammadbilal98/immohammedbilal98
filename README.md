@@ -13,7 +13,7 @@
 ## I'm a Self-taught Designer and Developer.
 ###### NAMAZ🤲 ‹-› GYM🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁   
  
--  👨‍🎓 I graduated with a bachelor's degree in Computer Science Engineering. 
+-  👨‍🎓 I graduated with a bachelor's degree in CSE. 
 -  📚 I’m currently learning Full-Stack Development.
 -  📂 Apart from coding, some other activities that I love to do! :
      <ul>
