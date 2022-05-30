@@ -64,8 +64,8 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 </p>
 
 <p>
-  <img align="left" alt="Mohammad Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immohammedbilal98&show_icons=true&locale=en" width="425px">
-    <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" width="355px">
+  <img align="left" alt="Mohammad Bilal's Github Stats" src="https://github-readme-stats.vercel.app/api?username=immohammedbilal98&show_icons=true&locale=en" width="396px">
+    <img align="left" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=immohammedbilal98&layout=compact&theme=light" width="332px">
 </p> 
 
 
