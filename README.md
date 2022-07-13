@@ -49,7 +49,7 @@
 <a href="https://twitter.com/elysian_97" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="https://twitter.com/elysian_97" height="30" width="30" /></a>
 <a href="https://www.linkedin.com/in/mohammedbilal97/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/mohammedbilal97/" height="30" width="30" /></a>
 <a href="https://www.facebook.com/elysian.97/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="https://www.facebook.com/elysian.97/" height="30" width="30" /></a>
-<a href="https://www.instagram.com/elysian.97__/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/elysian.97__/" height="30" width="30" /></a>
+<a href="https://www.instagram.com/elysian.97__/" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/im.mohammedbilal_97/" height="30" width="30" /></a>
 </p>
 
 <br>
