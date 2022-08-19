@@ -11,7 +11,7 @@
 <img align="right" src="https://www.mygo.ge/uploads/blog/1584023795.jpg" height='225' width='375'/> 
 
 ## I'm a Self-taught Designer and Developer.
-###### NAMAZ🤲 ‹-› GYM🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁   
+###### NAMAZ🤲 ‹-› EXERCISE🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁   
  
 -  👨‍🎓 I graduated with a bachelor's degree in CSE. 
 -  📚 I’m currently working UI Development.
