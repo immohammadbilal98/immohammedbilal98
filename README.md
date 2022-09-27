@@ -14,7 +14,7 @@
 ###### NAMAZ🤲 ‹-› EXERCISE🏋️ ‹-› EAT🥣 ‹-› CODE💻 ‹-› SLEEP😴 ‹-› REPEAT🔁   
  
 -  👨‍🎓 I graduated with a bachelor's degree in CSE. 
--  📚 I’m currently working UI Development.
+-  📚 I’m currently working Front-End Development.
 -  📂 Apart from coding, some other activities that I love to do! :
      <ul>
        <li>🎮 Playing Games</li>
